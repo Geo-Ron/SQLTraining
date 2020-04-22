@@ -168,7 +168,7 @@ Call DisableIE8Customize 'Voorkomt het instellingen venster van IE8
 Call RenameMyComputer() 'Zet de hostname bij "Deze Computer"
 'Call ShowWinVer() 'Laat Windows versie op desktop zien
 Call DisableNetworkPrinterBalloon() 'Schakelt netwerk printer balloon venster uit
-AdditionalSites = Array("VDLNET.nl","VDLGROEP.nl") 'Additional sites in lokal intranet zones in IE
+AdditionalSites = Array("VDLNET.nl","Ronsulting.net") 'Additional sites in lokal intranet zones in IE
 Call AddDomainSites 'Add own domain to Local Intranet Zones in IE
 
 
